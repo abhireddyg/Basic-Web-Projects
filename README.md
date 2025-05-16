@@ -7,7 +7,7 @@
 
 ## 🌐 Live Demo
 
-🔗 [Live Preview]([https://your-deployed-url.com](https://abhireddyg.github.io/Basic-Web-Projects/))
+🔗 [Live Preview]([https://abhireddyg.github.io/Basic-Web-Projects/])
 
 ---
 
